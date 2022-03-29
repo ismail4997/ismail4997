@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ismail4997
-- 👀 I’m interested in new innovations
-- 🌱 I’m currently learning web development
+- 👀 I’m interested in creating innovations.
+- 🌱 I’m a web developer
 - 💞️ I’m looking to collaborate on react js projects
 - 📫 How to reach me:
 -     twitter https://twitter.com/ismailtariqqq?t=06GNmO62I1xugufdpe0xbA&s=09   
