@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ismail4997
-- 👀 I’m interested in creating 
+- 👀 I’m interested in new innovations
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on react js projects
 - 📫 How to reach me:
